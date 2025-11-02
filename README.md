@@ -1,10 +1,12 @@
-📊 Data Science & Analytics Portfolio
+# 📊 Data Analytics Portfolio
 Welcome to my data science portfolio! This repository showcases my journey in data analysis, machine learning, and predictive modeling using Python, Excel, and various ML frameworks.
 👨‍💻 About Me
 Data enthusiast passionate about transforming raw data into actionable insights and building predictive models to solve real-world problems.
 Focus Areas: Machine Learning, Predictive Modeling, Data Analysis, Business Intelligence
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 🤖 Machine Learning Projects
 1. Home Credit Default Risk Prediction
 Objective: Predict loan default probability to optimize lending decisions for underbanked populations
