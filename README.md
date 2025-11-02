@@ -1,24 +1,21 @@
-Data Science Portfolio
-Welcome to my data science portfolio! This repository contains various machine learning and data analysis projects.
+📊 Data Science & Analytics Portfolio
+Welcome to my data science portfolio! This repository showcases my journey in data analysis, machine learning, and predictive modeling using Python, Excel, and various ML frameworks.
 👨‍💻 About Me
-Siti Fatimah Puspitaningrum - Aspiring Data Scientist
+Data enthusiast passionate about transforming raw data into actionable insights and building predictive models to solve real-world problems.
+Focus Areas: Machine Learning, Predictive Modeling, Data Analysis, Business Intelligence
 
-🎓 [Your University/Major]
-📧 [Your Email]
-💼 [LinkedIn]
-
-🚀 Projects
+🚀 Featured Projects
+🤖 Machine Learning Projects
 1. Home Credit Default Risk Prediction
-Goal: Predict loan default probability to optimize lending decisions
+Objective: Predict loan default probability to optimize lending decisions for underbanked populations
+Impact:
+
+🎯 ROC-AUC: 0.78 (8% improvement over baseline)
+📉 36% reduction in default losses (8.0% → 5.1%)
+💰 Expected profit: $72.6M per 60k applications
+🎓 3-tier risk-based customer segmentation
+
 Tech Stack: Python, Pandas, LightGBM, Scikit-learn
-Highlights:
+Key Skills: Binary Classification, Imbalanced Data Handling, Feature Engineering (150+ features), Business Impact Analysis
+📂 View Project | 📓 Notebook
 
-ROC-AUC: 0.78
-36% reduction in default losses
-$72.6M expected profit optimization
-3-tier customer segmentation strategy
-
-Skills: Classification, Imbalanced Data, Feature Engineering, Business Impact Analysis
-📊 View Project | 📓 Notebook
-
-2. [Project Name] - Coming Soon
