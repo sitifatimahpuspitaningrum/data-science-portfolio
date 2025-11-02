@@ -43,8 +43,6 @@ Python, Pandas, Scikit-learn, LightGBM, Matplotlib/Seaborn
 - Feature Engineering (150+ engineered features)
 - Business Impact Evaluation
 
-[📂 View Project](./projects/ml/01-home-credit-default-risk/) | [📓 View Notebook](./projects/ml/01-home-credit-default-risk/home_credit_analysis.ipynb)
-
 ---
 
 ### 📌 More Projects Coming Soon...
