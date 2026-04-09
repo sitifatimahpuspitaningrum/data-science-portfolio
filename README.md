@@ -78,9 +78,3 @@ If you'd like to collaborate or discuss my work, feel free to reach out!
 
 - 📧 **Email:** sitifatimahpuspitaningrum@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/sitifatimahpuspita](https://linkedin.com/in/sitifatimahpuspita)
-
----
-
-⭐ **If you find this portfolio useful, please consider giving it a star!**
-
-*Last updated: November 2025*
